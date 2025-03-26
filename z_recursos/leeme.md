@@ -1,2 +1,2 @@
 ## EJEMPLO CART
-![la tarjeta](capturaCard.png)
+![la tarjeta](capturaCard.PNG)
