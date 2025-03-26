@@ -1,2 +1,2 @@
-## EJEMPLO CART
+## EJEMPLO CARD
 ![la tarjeta](capturaCard.PNG)
